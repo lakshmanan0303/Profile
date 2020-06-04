@@ -1,0 +1,23 @@
+.title {
+    font-size: 14px;
+}
+
+body {
+    background-color: #EAF6F6;
+}
+
+.ProfilePic {
+    width: 150px;
+    height: 150px;
+}
+
+h1, h3 {
+    color: #66BFBF;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 8px;
+    border-color: grey;
+    width: 4%;
+}
